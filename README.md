@@ -6,7 +6,7 @@ Proyecto desarrollado en Python que monitorea lotes agrícolas
 y genera recomendaciones automáticas de riego, ph y temperatura.
 
 ## Tecnologías
-- Python
+- Lenguage de programación Py
 - Diccionarios y listas
 - Estructuras de control
 
